@@ -1,10 +1,10 @@
 | SETUP Laravel |
 
 
-git clone https://github.com/itowaka044/laravel-docker-mysql-tailwind-bootstrap.git
+git clone https://github.com/itowaka044/setupsetupsetup
 
 
-cd laravel-docker-mysql-tailwind-bootstrap
+cd setupsetupsetup
 
 
 cp .env.example .env
