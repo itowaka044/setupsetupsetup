@@ -1,4 +1,4 @@
-| SETUP Laravel |
+| setup laravel+docker+mysql+nginx+redis |
 
 
 git clone https://github.com/itowaka044/setupsetupsetup
